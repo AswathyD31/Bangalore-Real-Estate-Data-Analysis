@@ -53,7 +53,16 @@ Created visualizations to analyze the relationship between features and house pr
 
 **Outlier Detection and Removal**
 
-Utilized methods like IQR and Z-score to identify outliers.
+Utilized methods like:
+
+* Mean and Standard Deviation
+
+* Percentile Method
+
+* Interquartile Range (IQR)
+
+* Z-Score Method
+
 Visualized the data before and after outlier removal using box plots.
 
 **Normality Check**
