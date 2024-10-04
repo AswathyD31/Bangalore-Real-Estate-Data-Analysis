@@ -9,7 +9,7 @@ This project involves analyzing a dataset containing property prices in Bangalor
 # Dataset
 The dataset consists of various attributes related to properties in Bangalore, including but not limited to:
 
-**Price:** The price of the property.
+* **Price:** The price of the property.
 
 **Area:** The size of the property in square feet.
 
