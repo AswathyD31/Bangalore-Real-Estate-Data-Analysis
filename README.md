@@ -11,13 +11,13 @@ The dataset consists of various attributes related to properties in Bangalore, i
 
 * **Price:** The price of the property.
 
-**Area:** The size of the property in square feet.
+* **Area:** The size of the property in square feet.
 
-**Bedrooms:** The number of bedrooms in the property.
+* **Bedrooms:** The number of bedrooms in the property.
 
-**Location:** The geographical area where the property is located.
+* **Location:** The geographical area where the property is located.
 
-**Other Attributes:** Additional relevant features (e.g., age of the property, number of bathrooms, etc.).
+* **Other Attributes:** Additional relevant features (e.g., age of the property, number of bathrooms, etc.).
 
 # Objectives
 ___
@@ -71,9 +71,9 @@ Created scatter plots to visually assess the correlation between price and other
 
 **Results**
 
-Summary of key findings from the analysis.
-Insights on factors influencing house prices in Bangalore.
-Visualizations showcasing relationships between variables.
+* Summary of key findings from the analysis.
+* Insights on factors influencing house prices in Bangalore.
+* Visualizations showcasing relationships between variables.
 
 # Conclusion
 ___
